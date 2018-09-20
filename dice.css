@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+* {
+    font-family: 'Frederika the great', sans-serif;
+    text-align: center;
+}
+button {
+    background-color: red;
+    color: white;
+    border-radius: 6px;
+    padding: 10px;
+    cursor: pointer;
+    width: 200px;
+}
+placeholder {
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    padding: 50px;
+    border: 1px;
+    border-radius: 10px;
+}
+image {
+    display: none;
+}
+
